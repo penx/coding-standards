@@ -10,6 +10,10 @@
 - https://google.github.io/styleguide/javascriptguide.xml
 - https://github.com/airbnb/javascript
 
+### Node
+
+- https://devcenter.heroku.com/articles/node-best-practices
+
 ### Angular
 
 - General coding guidelines https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md
